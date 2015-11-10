@@ -2,4 +2,4 @@
 my description
 
 * puce
-* autre puce
+* other puce
