@@ -3,4 +3,4 @@ my description
 
 * puce
 * other puce
-* a third puce
+* a third puces
